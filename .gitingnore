@@ -1,0 +1,17 @@
+#sistema operativo
+.DS_Store
+Thumbs.db
+
+# visual
+.VScode/
+.idea/
+
+#entornos virtuales
+Venv/
+.Venv/
+
+# variables de entornos
+.env
+.env.*
+
+.qodo
